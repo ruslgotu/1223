@@ -1,0 +1,72 @@
+{ 
+       "ovod":[141861639,132047222,321832227],
+       "admin":[0],
+       "block":[132047222,132535195,135692688,564337233,529579824,490209006],
+       "goods":[13278349,278297924],
+       "neadekvat":[132535195,425690183,95074853],
+       "url":
+       {
+           "red": 
+           {
+           "href": "https://blackprojectnew.ru/images/red.gif",
+           "text": ""
+           },
+           "goods": {
+               "href": "https://blackprojectnew.ru/images/green.gif",
+               "text": ""
+           },
+           "neadekvat": {
+               "href": "https://blackprojectnew.ru/images/red.gif",
+               "text": ""
+           },
+           "admin": {
+               "href": "https://blackprojectnew.ru/images/black.gif",
+               "text": ""
+           },
+           "block": {
+               "href": "https://blackprojectnew.ru/images/black.gif",
+               "text": ""
+           }
+       },
+       "piar":{
+          "id": 0,
+          "text":"BlackJack уже в игре!"
+              },
+       "statusANIMATION":
+       {
+       "161516494": {
+       "href": "https://blackprojectnew.ru/images/glava.gif",
+       "text": "Создатель скрипта"
+       },
+    "162731304": {
+       "href": "https://blackprojectnew.ru/images/145.gif",
+       "text": ""
+       },
+    "38562414": {
+       "href": "https://blackprojectnew.ru/images/145.gif",
+       "text": ""
+       },
+    "154076623": {
+       "href": "https://blackprojectnew.ru/images/145.gif",
+       "text": ""
+       },
+    "155272293": {
+       "href": "https://blackprojectnew.ru/images/145.gif",
+       "text": ""
+       },
+    "331739815": {
+       "href": "https://blackprojectnew.ru/images/145.gif",
+       "text": ""
+       },
+    "159141843": {
+       "href": "https://blackprojectnew.ru/images/145.gif",
+       "text": ""
+       },
+    "70088405": {
+       "href": "https://blackprojectnew.ru/images/145.gif",
+       "text": ""
+       }
+       
+       
+       }
+}
